@@ -15,7 +15,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Im-Programmatist&style=flat-square&color=blue" alt=""/>
 <h1>
-	hey programmers,
+	hey programmers, 👋
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -32,15 +32,17 @@
 
 	- 👀 I’m interested in web technology, software architecture and cloud technology.
 
-	- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications, Also woking on cloud technology like AWS platform. 
+	- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications, Also woking on cloud technology like AWS platform. 
 
-	- :seedling: Exploring Technical Content Writing & Blogging. I’m currently learning deep concept of Node JS, React JS, MOngo DB, ES6 Advanced & AWS Cloud  
-
-	- :zap: In my free time, I solve problems on JS technology and Get knowledge about web & cloud technology.
+	- 🌱 Exploring Technical Content Writing & Blogging. I’m currently learning deep concept of Node JS, React JS, MOngo DB, ES6 Advanced & AWS Cloud  
+	
+	- 💞️ I’m looking to collaborate on Laravel, Node, JS & AWS technology
+	
+	- ⚡ In my free time, I solve problems on JS technology and Get knowledge about web & cloud technology.
 
 	- 💬 You can ask me about any problem in js and aws, together we will find the solution
 	
-	- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/chetankorde) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chetannkorde@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/im_programmatist/)
+	- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/chetankorde) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chetannkorde@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/im_programmatist/)
 
 </div>
 <!--    <p align="left">
