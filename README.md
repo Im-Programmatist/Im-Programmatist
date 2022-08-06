@@ -29,7 +29,7 @@
 	<a>
         	<img height="20" src="https://wakatime.com/badge/user/09ab5398-b8b2-4102-acd3-1d52d86b6a48.svg" alt="wakatime" />
     	</a>
-	<a href="https://wakatime.com/@09ab5398-b8b2-4102-acd3-1d52d86b6a48"><img src="https://wakatime.com/badge/user/09ab5398-b8b2-4102-acd3-1d52d86b6a48.svg" alt="Total time coded since Aug 7 2022" /></a>
+<!-- 	<a href="https://wakatime.com/@09ab5398-b8b2-4102-acd3-1d52d86b6a48"><img src="https://wakatime.com/badge/user/09ab5398-b8b2-4102-acd3-1d52d86b6a48.svg" alt="Total time coded since Aug 7 2022" /></a> -->
     </div>
 </div>
 
