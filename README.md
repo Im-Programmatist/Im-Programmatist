@@ -5,6 +5,6 @@
 - 📫 How to reach me can reach me out on email - chetannkorde@gmail.com and instagram id - im_programmatist
 
 <!---
-kchetannarayan/programmatist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+programmatist/kchetannarayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
