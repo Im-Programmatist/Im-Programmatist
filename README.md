@@ -2,7 +2,7 @@
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
 	<a href="linkedin.com/in/chetankorde">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
@@ -13,11 +13,14 @@
 		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 	</a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Im-Programmatist&style=flat-square&color=blue" alt=""/>
-<h1>
-	hey programmers, 👋
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+<div  align="center">
+    <img src="https://komarev.com/ghpvc/?username=Im-Programmatist&style=flat-square&color=blue" alt=""/>
+    <h1>
+        hey programmers, 👋
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+</div>
 
 <div>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India & known as Programmatist in online community.
@@ -64,9 +67,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 		<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=im-programmatist&theme=onedark" />
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-programmatist&layout=compact&&count_private=true&theme=onedark" />
 	</p>
-	<div align="center">
-		<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-	</div>
 </div>
 ---
 
