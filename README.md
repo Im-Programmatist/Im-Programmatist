@@ -19,6 +19,17 @@
         👋 hey programmers
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
+    <div>
+	<a href="https://github.com/im-programmatist/im-programmatist">
+		<img src="https://komarev.com/ghpvc/?username=im-programmatist" alt="im-programmatist" />
+	</a>
+	<a href="http://twitter.com/k_chetannarayan">
+		<img height="20" src="https://img.shields.io/twitter/follow/k_chetannarayan?label=Twitter&logo=twitter&style=flat" />
+	</a>
+	<a>
+		<img height="20" src="https://wakatime.com/badge/user/b137518f-a814-46cd-9af6-ae6121c57ff6.svg" />
+	</a>
+    </div>
 </div>
 
 <div>
