@@ -27,7 +27,7 @@
 		<img height="20" src="https://img.shields.io/twitter/follow/k_chetannarayan?label=Twitter&logo=twitter&style=flat" />
 	</a>
 	<a>
-        	<img height="20" src="https://wakatime.com/badge/user/09ab5398-b8b2-4102-acd3-1d52d86b6a48.svg" />
+        	<img height="20" src="https://wakatime.com/badge/user/09ab5398-b8b2-4102-acd3-1d52d86b6a48.svg" alt="wakatime" />
     	</a>
     </div>
 </div>
