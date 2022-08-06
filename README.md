@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👀 I’m interested in web technology, software architecture and cloud technology.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications, Also woking on cloud technology like AWS platform. 
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications, Also working on cloud technology like AWS platform. 
 
 - 🌱 Exploring Technical Content Writing & Blogging. I’m currently learning deep concept of Node JS, React JS, MOngo DB, ES6 Advanced & AWS Cloud  
 
