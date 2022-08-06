@@ -1,7 +1,9 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+<div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <div id="badges" align="center">
 	<a href="linkedin.com/in/chetankorde">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +19,7 @@
 <div  align="center">
     <img src="https://komarev.com/ghpvc/?username=Im-Programmatist&style=flat-square&color=blue" alt=""/>
     <h1>
-        hey programmers, 👋
+        👋 hey programmers,
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
@@ -61,7 +63,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <div align="center">
-	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 	<p align="center">
 		<img width="48%" src="https://github-readme-stats.vercel.app/api?username=im-programmatist&count_private=true&show_icons=true&theme=onedark" />
 		<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=im-programmatist&theme=onedark" />
@@ -71,28 +72,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
-<!--    <p align="left">
-    <a href="https://github.com/rajoleanil75/rajoleanil75">
-        <img src="https://komarev.com/ghpvc/?username=rajoleanil75" alt="rajoleanil75" />
-    </a>
-    <a href="http://twitter.com/rajoleanil75">
-        <img height="20" src="https://img.shields.io/twitter/follow/rajoleanil75?label=Twitter&logo=twitter&style=flat" />
-    </a>
-    <a>
-        <img height="20" src="https://wakatime.com/badge/user/b137518f-a814-46cd-9af6-ae6121c57ff6.svg" />
-    </a>
-    <a href="https://github.com/rajoleanil75">
-        <img height="20" src="https://img.shields.io/github/followers/rajoleanil75?label=follow&logo=github&style=flat" />
-    </a>
-    <a href="https://www.reddit.com/user/rajoleanil75">
-        <img height="20" src="https://img.shields.io/reddit/user-karma/combined/rajoleanil75?label=Reddit&logo=reddit&style=flat" />
-    </a> -->
-    <!--
-    <a href="https://stackoverflow.com/users/12702900/rajoleanil75">
-        <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/12702900?label=StackOverflow&logo=stack-overflow&style=flat" />
-    </a>
-</p>-->
-   
 <!---
 programmatist/kchetannarayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
