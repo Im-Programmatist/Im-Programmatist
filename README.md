@@ -88,7 +88,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :open_file_folder: Repositories :
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=node-demo-app-01)](https://github.com/im-programmatist/node-demo-app-01)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=practice-mern-web-app)](https://github.com/im-programmatist/practice-mern-web-app)
 ---
 
 ### :writing_hand: Blog Posts :
