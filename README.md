@@ -87,6 +87,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 ---
 
+### :writing_hand: Repositories -  :
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/yourusername/repo-name)
+---
+
 ### :writing_hand: Blog Posts :
 <!---
 programmatist/kchetannarayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
