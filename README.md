@@ -51,7 +51,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; 
 </div>
----
+***
 
 ### :fire: My Stats :
 <div align="center">
@@ -61,7 +61,7 @@
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-programmatist&layout=compact&&count_private=true&theme=onedark" />
 	</p>
 </div>
----
+<hr>
 
 <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -85,7 +85,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetankorde)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chetannkorde@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_programmatist/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chetannkorde)
 </div>
----
+<hr>
 
 ### :open_file_folder: Repositories :
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=practice-mern-web-app)](https://github.com/im-programmatist/practice-mern-web-app)
