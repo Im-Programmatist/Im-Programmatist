@@ -32,30 +32,6 @@
     </div>
 </div>
 
-<div>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India & known as Programmatist in online community.
-
-- 👀 I’m interested in web technology, software architecture and cloud technology.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications, Also working on cloud technology like AWS platform. 
-
-- 🌱 Exploring Technical Content Writing & Blogging. I’m currently learning deep concept of Node JS, React JS, MOngo DB, ES6 Advanced & AWS Cloud  
-
-- 💞️ I’m looking to collaborate on Laravel, Node, JS & AWS technology
-
-- ⚡ In my free time, I solve problems on JS technology and Get knowledge about web & cloud technology. 
-
-- 🤔 I have also worked on Android and Java for 1.5 years, at the early stage of my career started my journey with C# and ASP .Net
-
-- 💬 You can ask me about any problem in js and aws, together we will find the solution
-
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetankorde)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chetannkorde@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_programmatist/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chetannkorde)
-</div>
-<div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -92,6 +68,34 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Mongo-Express-Node-CRUD-Demo)](https://github.com/im-programmatist/Mongo-Express-Node-CRUD-Demo)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=MERN-Folder-Structure-Sample)](https://github.com/im-programmatist/MERN-Folder-Structure-Sample)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Introduction-Node.js-Basic-Tutorial)](https://github.com/im-programmatist/Introduction-Node.js-Basic-Tutorial)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=ES6-Concepts-Practice-Code)](https://github.com/im-programmatist/ES6-Concepts-Practice-Code)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Node-Mongo-React-APP-Demo)](https://github.com/im-programmatist/Node-Mongo-React-APP-Demo)
+
+---
+
+<div>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India & known as Programmatist in online community.
+
+- 👀 I’m interested in web technology, software architecture and cloud technology.
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications, Also working on cloud technology like AWS platform. 
+
+- 🌱 Exploring Technical Content Writing & Blogging. I’m currently learning deep concept of Node JS, React JS, MOngo DB, ES6 Advanced & AWS Cloud  
+
+- 💞️ I’m looking to collaborate on Laravel, Node, JS & AWS technology
+
+- ⚡ In my free time, I solve problems on JS technology and Get knowledge about web & cloud technology. 
+
+- 🤔 I have also worked on Android and Java for 1.5 years, at the early stage of my career started my journey with C# and ASP .Net
+
+- 💬 You can ask me about any problem in js and aws, together we will find the solution
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetankorde)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chetannkorde@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_programmatist/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chetannkorde)
+</div>
+<div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ---
 
 ### :writing_hand: Blog Posts :
