@@ -94,7 +94,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Introduction-Node.js-Basic-Tutorial)](https://github.com/im-programmatist/Introduction-Node.js-Basic-Tutorial)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=ES6-Concepts-Practice-Code)](https://github.com/im-programmatist/ES6-Concepts-Practice-Code)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Node-Mongo-React-APP-Demo)](https://github.com/im-programmatist/Node-Mongo-React-APP-Demo)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=ES6-Concepts-Practice-Code)](https://github.com/im-programmatist/ES6-Concepts-Practice-Code)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Advanced-Javascript-Concept)](https://github.com/im-programmatist/Advanced-Javascript-Concept)
 
 ---
 
