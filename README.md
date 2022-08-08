@@ -63,16 +63,9 @@
 </div>
 ---
 
-### :open_file_folder: Repositories :
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=practice-mern-web-app)](https://github.com/im-programmatist/practice-mern-web-app)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Mongo-Express-Node-CRUD-Demo)](https://github.com/im-programmatist/Mongo-Express-Node-CRUD-Demo)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=MERN-Folder-Structure-Sample)](https://github.com/im-programmatist/MERN-Folder-Structure-Sample)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Introduction-Node.js-Basic-Tutorial)](https://github.com/im-programmatist/Introduction-Node.js-Basic-Tutorial)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=ES6-Concepts-Practice-Code)](https://github.com/im-programmatist/ES6-Concepts-Practice-Code)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Node-Mongo-React-APP-Demo)](https://github.com/im-programmatist/Node-Mongo-React-APP-Demo)
-
----
-
+<div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <div>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India & known as Programmatist in online community.
 
@@ -92,10 +85,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetankorde)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chetannkorde@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_programmatist/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chetannkorde)
 </div>
-<div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+---
 
+### :open_file_folder: Repositories :
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=practice-mern-web-app)](https://github.com/im-programmatist/practice-mern-web-app)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Mongo-Express-Node-CRUD-Demo)](https://github.com/im-programmatist/Mongo-Express-Node-CRUD-Demo)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=MERN-Folder-Structure-Sample)](https://github.com/im-programmatist/MERN-Folder-Structure-Sample)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Introduction-Node.js-Basic-Tutorial)](https://github.com/im-programmatist/Introduction-Node.js-Basic-Tutorial)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=ES6-Concepts-Practice-Code)](https://github.com/im-programmatist/ES6-Concepts-Practice-Code)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Node-Mongo-React-APP-Demo)](https://github.com/im-programmatist/Node-Mongo-React-APP-Demo)
 ---
 
 ### :writing_hand: Blog Posts :
