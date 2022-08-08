@@ -91,7 +91,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=practice-mern-web-app)](https://github.com/im-programmatist/practice-mern-web-app)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Mongo-Express-Node-CRUD-Demo)](https://github.com/im-programmatist/Mongo-Express-Node-CRUD-Demo)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=MERN-Folder-Structure-Sample)](https://github.com/im-programmatist/MERN-Folder-Structure-Sample)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=MERN-Folder-Structure-Sample)](https://github.com/im-programmatist/Introduction-Node.js-Basic-Tutorial)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Introduction-Node.js-Basic-Tutorial)](https://github.com/im-programmatist/Introduction-Node.js-Basic-Tutorial)
 ---
 
 ### :writing_hand: Blog Posts :
