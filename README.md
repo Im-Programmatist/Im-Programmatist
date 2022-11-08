@@ -88,12 +88,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <hr>
 
 ### :open_file_folder: Repositories :
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=ES6-Concepts-Practice-Code)](https://github.com/im-programmatist/ES6-Concepts-Practice-Code)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Advanced-Javascript-Concept)](https://github.com/im-programmatist/Advanced-Javascript-Concept)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=ReactJs-Complete-Beginners-Guide)](https://github.com/im-programmatist/ReactJs-Complete-Beginners-Guide)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=NodeJs-Beginners-Handbook)](https://github.com/im-programmatist/Node-Mongo-React-APP-Demo)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Node-Mongo-React-APP-Demo)](https://github.com/im-programmatist/Node-Mongo-React-APP-Demo)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Git_Hub_Scanner)](https://github.com/im-programmatist/Git_Hub_Scanner)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Mongo-Express-Node-CRUD-Demo)](https://github.com/im-programmatist/Mongo-Express-Node-CRUD-Demo)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=MERN-Folder-Structure-Sample)](https://github.com/im-programmatist/MERN-Folder-Structure-Sample)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Introduction-Node.js-Basic-Tutorial)](https://github.com/im-programmatist/Introduction-Node.js-Basic-Tutorial)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=ES6-Concepts-Practice-Code)](https://github.com/im-programmatist/ES6-Concepts-Practice-Code)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=im-programmatist&repo=Advanced-Javascript-Concept)](https://github.com/im-programmatist/Advanced-Javascript-Concept)
 
 ---
 
